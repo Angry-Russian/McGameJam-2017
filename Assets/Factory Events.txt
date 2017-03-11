@@ -1,0 +1,235 @@
+Happiness Events:
+	Happiness MIN:
+		You were overthrown by the townspeople
+		Volky Message: "How Pathetic, 
+						you huffin' piece of trash! 
+						A ruler whom is unable to control his people 
+						deserves everything his population will enact upon him."
+	Happiness 25%:
+		The townspeople are starting to get mad in the workplace, making them unable to work efficiently.
+		Volky Message: "Uh Oh, boss! 
+						Looks like you got a bit of the ol' restless prole syndrome on your big hands! 
+						Removing several benefits from the workers was a brilliant idea for that little extra bit of profit!
+						Maybe,
+						for just a little bittle bit,
+						you can give your worker bees the privilege of eating some pollen!
+						I totally would for them to overthrew their queen!"
+	Happiness 75%:
+		You give your workers more benefits and lose money.
+		Volky Message: "What the huff are you doing, boss?! 
+						You're spoiling the kids too much! 
+						You're so forgetting to put tasty little serfs in their puffin' place!
+						Careful, boss!
+						Wouldn't want to see you get put in your place, 
+						if you know what I mean!"
+	Happiness MAX:
+		You lose all your money by giving your employees too many benefits and paying them too much.
+		Volky Message: "I warned you, 
+						but you had to go and be a good lil' red ridin' hood.
+						In this big house of a world, 
+						it's eat or be eaten...
+						How about that, 
+						your mouth must be so tiny!
+						You chose virtue, 
+						here's your last reward, 
+						to be eaten by the world."
+
+Environment Events:
+	Environment MIN:
+		All workers die from polluted water and air.
+		Volky Message: "What in grandma's name have you done? 
+						Smells puffin' awful here! 
+						Today I learned that queen bee was really, 
+						really huffin' incompetent, 
+						in anything, 
+						in everything, 
+						ever!
+						Queen bee is, 
+						was, 
+						and will be,
+						oh so, so, incompetent! 
+						And it's all because she can't understand the simplest concepts!
+						Hey Queen bee, 
+						here's a little simplest concept for you:
+						'Don't sprey the inside of your hive with poison'!"
+	Environment 25%:
+		Workers start to feel sick, river becomes polluted, air becomes polluted.
+		Volky Message: "Whoa, 
+						who farted toxic chemicals in the room?!
+						Hey boss, 
+						I'm lookin' around, 
+						and I'm getting this little feeling in my big stomach.
+						I'm getting this little feeling that the working meat bags are slowly rotting.
+						I'm having this little, 
+						sorta' big, 
+						vibe right now. 
+						And it's telling me,
+						it's telling me so much right now, 
+						just gotta feng shui this place up a bit, 
+						just a tad bit, boss, 
+						just a lil' tad of a feng shui right here."
+	Environment 75%:
+		Workers feel very healthy, you start losing money by using less polluting, but more expensive materials.
+		Volky Message: "Oh jeez, 
+						come on now, 
+						we all know this 'Global Warming' nonsense is just a little fairy tale.
+						Boss, 
+						hey boss, 
+						I need to tell you this tiny advice on my mind right now, 
+						I just have to tell you!
+						If you keep trying on getting your thumbs green, 
+						you'll lose lotsa' green in your pockets!"
+	Environment MAX:
+		You lose all your money by only using environmentally friendly products.
+		Volky Message: "Good going on accomplishing big nonsense, no sense at all.
+						Wow! What a good little goody-two-green-thumb ridin' hood you are.
+						Good job, puff face, you ran your factory right into the ground.
+						As in, actually, literally, and litterally running your factory into the ground.
+						But hey, at least it's 'ecologically friendly' right?! Right?!
+						Don't worry, green boy, you'll be joining your factory very soon!"
+
+Education Events:
+	Education MIN:
+		Your workers break all your machinery from being unable to concentrate on performing very basic tasks.
+		Volky Message: "You know, big brain man, 
+						you know what you just accomplished, 
+						right?!
+						I'm sure you know, 
+						and I also know, 
+						exactly, 
+						very precisely, 
+						your accomplishment!
+						I also know exactly, 
+						100% right now, 
+						that I have no huffing idea,
+						absolutely 0% here,
+						on exactly how you managed to puff up so majorly!
+						Basically,
+						with the mental state you allowed your workers to handle the machinery,
+						truthfully,
+						you would have lost less money,
+						literally,
+						if your workers were comatose!
+						Honestly, 
+						now you're out of cash, and out of luck!
+						This is the end of the road for you!"
+	Education 25%:
+		Your workers start to have difficulty concentrating on their work and you start having workplace accidents.
+		Volky Message: "Incoming, boss,
+						incoming message!
+						It's totally very important right now,
+						the message I have for you!
+						Our hungry, hungry, clients are telling me that our products are too faulty!
+						Let me tell you why this is happening, boss!
+						You see, 
+						word around town is...
+						Well, quite frankly,
+						it's just words with no context. 
+						Pretty much all conversations around town are borderline incomprehensible.
+						You try to talk to a guy, 
+						and two seconds later, 
+						he loses his train of thought!
+						If you have not figured this out yet, boss,
+						the workers can't concentrate on the job to build our products!
+						Maybe, 
+						just for me, boss, 
+						just for me,
+						cool down on the Gestapo tactics.
+						You're at 11 right now, 
+						and I need you to be at about 5 or 6."
+	Education 75%:
+		Your workers start leaving the town for more job opportunities.
+		Volky Message: "You know, boss,
+						I think you need to be a bit more of a bossy boss right now!
+						Your workers are starting to fill their head with all sort of junk!
+						They filled their heads so much,
+						now they are starting to get full of themselves.
+						Can you believe this?! 
+						They are starting to believe, 
+						believe they know what is best for them.
+						I think this is time for you to show some 'fatherly TOUGH love',
+						and 'convince' your guys and gals that you know what's best for them."
+	Education MAX:
+		Your town becomes a ghost town as most of the educated people took their families out of town.
+		Volky Message: "Where'd everyone go?!
+						Oh, that's right,
+						Mister :
+						'Uhhhhhh, 
+						if I allow everyone to get a better education, 
+						I will be able to make better,
+						more innovative and luxurious products'.
+						Well, good job,
+						right there, 
+						you have done just that.
+						Well done, 
+						except not really,
+						what you actually did was,
+						to permanently puff your huffing factory town up.
+						Because now,
+						now they all moved to the big city to start their own businesses.
+						And they took their families and friends with them.
+						You just couldn't muster up an iron grip, 
+						not even a tin grip,
+						puffin' mister 'baby gloves' over here.
+						Now what you can, 
+						and should do,
+						as a personal recommendation of ol' Volky,
+						is to taste the grip of the pavement."
+
+Money Events:
+	Money MIN:
+		Lose, go bankrupt. Volky Insults you as you die on the streets.
+		Volky Message: "You know, boss.
+						I'm not going to call you that, really.
+						I really lost that respect I had for you.
+						You thought you could play like a big boy.
+						Yah, that's really nice and all,
+						but you huffed up,
+						no PROFITS, 
+						just a whole lot of failure.
+						Speaking of holes, 
+						seems like all you are good for, 
+						is being a money hole!
+						You're done,
+						go into the streets,
+						and be no one,
+						and die like a stray dog.
+						How disgusting."
+	Money 25%:
+		Volky starts to get displeased with you and has disrespect towards you.
+		Volky Message: "Yah, uhh, boss,
+						you're just totally puffing up my vibe right now.
+						So, if you could just,
+						y'know, stop being so absolutely incompetent and make me some PROFIT,
+						that would be really nice.
+						I don't think I'm asking for a lot here, 
+						I'm making this real simple for you.
+						You just gotta press my three little buttons the right way,
+						and PROFIT will be coming your way before you know it."
+	Money 75%:
+		Volky gets excited and cheers you on to keep up the good work.
+		Volky Message: "OH BOSS!
+						OH BOSS!
+						I'm feeling this PROFIT come in right now and I'm absolutely in love with it.
+						Keep going, boss,
+						you're so close boss, 
+						so, so close!"
+	Money MAX:
+		Win, Rich, So Much Money. Volky is proud of you.
+		Volky Message: "PROFIT! 
+						PROFIT!
+						OHHHH PROFIT!
+						YES!
+						YES!
+						You made it, boss,
+						you made it!
+						I knew you were just the right guy to press my buttons just the right way!
+						I felt the potential for PROFIT deep in your heart.
+						But you know,
+						it's still not enough for me,
+						I need more.
+						MORE!
+						MORE PROFIT!
+						MORE PROFIT!
+						WE NEED TO GET MORE PROFITS!
+						IT'S TIME TO GET BACK TO WORK!"
