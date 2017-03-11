@@ -918,8 +918,8 @@ MonoBehaviour:
   hz: 60
   min: 0
   max: 100
-  fill: 50
+  _fill: 50
   progressBar: {fileID: 525038969}
   reverse: 1
-  transitionSpeed: 0.2
+  transitionSpeed: 2
   pulseColor: 1
