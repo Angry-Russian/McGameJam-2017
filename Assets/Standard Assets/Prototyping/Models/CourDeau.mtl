@@ -10,5 +10,5 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd C:\Users\inven\Desktop\McGameJam\McGameJam-2017\Assets\Standard Assets\Prototyping\Textures\WaterComposed.png
-map_Bump -bm 2.276596 -o 0.000000 0.098025 0.000000 -s 0.200000 0.200000 1.000000 C:\\Users\\inven\\Desktop\\McGameJam\\McGameJam-2017\\Assets\\Standard Assets\\Prototyping\\Textures\\WaterComposed.png
+map_Kd C:\Users\inven\Desktop\McGameJam\McGameJam-2017\Assets\Standard Assets\Prototyping\Textures\TerrainPrincipalTextureMacro.png
+map_Bump -bm 2.276596 -o 0.000000 0.098025 0.000000 -s 2.000000 2.000000 1.000000 C:\\Users\\inven\\Desktop\\McGameJam\\McGameJam-2017\\Assets\\Standard Assets\\Prototyping\\Textures\\WaterComposed.png
