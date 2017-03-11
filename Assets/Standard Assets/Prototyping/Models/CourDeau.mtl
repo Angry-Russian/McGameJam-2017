@@ -1,0 +1,14 @@
+# Blender MTL File: 'McGameJAm.blend'
+# Material Count: 1
+
+newmtl WaterMaterial
+Ns 174.509804
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\inven\Desktop\McGameJam\McGameJam-2017\Assets\Standard Assets\Prototyping\Textures\WaterComposed.png
+map_Bump -bm 2.276596 -o 0.000000 0.098025 0.000000 -s 0.200000 0.200000 1.000000 C:\\Users\\inven\\Desktop\\McGameJam\\McGameJam-2017\\Assets\\Standard Assets\\Prototyping\\Textures\\WaterComposed.png

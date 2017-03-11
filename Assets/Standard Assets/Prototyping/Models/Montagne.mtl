@@ -1,0 +1,13 @@
+# Blender MTL File: 'McGameJAm.blend'
+# Material Count: 1
+
+newmtl Montagne_material
+Ns 31.372549
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075046 0.122807 0.016639
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\inven\Desktop\McGameJam\McGameJam-2017\Assets\Standard Assets\Prototyping\Textures\TerrainPrincipalTextureMacro.png
