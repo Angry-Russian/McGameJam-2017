@@ -67,10 +67,7 @@ public class MoneyBar : MonoBehaviour {
 
         float deltaP = progress - currentProgress;
 
-        //progress = Mathf.Min((Time.timeSinceLevelLoad - modTime) / transitionSpeed, 1f);
-        //progress = 1 - Mathf.Pow(1 - progress, 3);
-
-        progressBar.transform.localScale = new Vector3(currentProgress + deltaP * Time.deltaTime/4, 1, 1);
+        progressBar.transform.localScale = new Vector3(currentProgress + deltaP / 4, 1, 1);
         
         active = (realProgress < 0.1);
 
@@ -106,7 +103,7 @@ public class MoneyBar : MonoBehaviour {
         Color col = new Color(1f, 1f, 1f);
         float v = Mathf.Cos(val) / 4 + 0.75f;
 
-        if (c != ColorVariation.Alpha) col.a = startColor.a * v;
+        //if (c != ColorVariation.Alpha) col.a = startColor.a * v;
         if (c != ColorVariation.Red) col.r = startColor.r * v;
         if (c != ColorVariation.Green) col.g = startColor.g * v;
         if (c != ColorVariation.Blue) col.b = startColor.b * v;
