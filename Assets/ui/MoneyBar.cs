@@ -13,7 +13,7 @@ public class MoneyBar : MonoBehaviour {
     public float max = 100;
 
     public float _fill = 100;
-    private float modTime = 0;
+    private float modTime;
     public float fill {
         get {
             return _fill;
