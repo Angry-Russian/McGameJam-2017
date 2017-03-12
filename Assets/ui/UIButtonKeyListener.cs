@@ -8,19 +8,20 @@ public class UIButtonKeyListener : MonoBehaviour {
     public string inputName;
 
     private Image sprite;
-    private Vector3 startPos;
 
 	// Use this for initialization
 	void Start () {
         sprite = GetComponent<Image>();
-        startPos = transform.position;
 	}
 	
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetButton(inputName)) 
-            this.transform.position = startPos + Vector3.down * 2f;
-        else
-            this.transform.position = startPos;
+
+        if (Input.GetButtonDown(inputName)) 
+            transform.Translate(Vector3.down * 2f);
+
+        if(Input.GetButtonUp(inputName))
+            transform.Translate(Vector3.up * 2f);
+
     }
 }
