@@ -1,0 +1,39 @@
+[33m0326260[m HEAD@{0}: checkout: moving from master to master
+[33m0326260[m HEAD@{1}: branch: Reset to origin/master
+[33m8e26693[m HEAD@{2}: checkout: moving from Jim to master
+[33m0326260[m HEAD@{3}: checkout: moving from master to Jim
+[33m8e26693[m HEAD@{4}: rebase finished: returning to refs/heads/master
+[33m8e26693[m HEAD@{5}: rebase: Add Roads model and Human model
+[33m0326260[m HEAD@{6}: pull --rebase --progress origin +refs/heads/master:refs/remotes/origin/master: checkout 03262609b8d397af31199f6f007d02c3cc5e5bf9
+[33m1691817[m HEAD@{7}: reset: moving to HEAD
+[33m1691817[m HEAD@{8}: commit: Add Roads model and Human model
+[33mb708e57[m HEAD@{9}: commit: Update environment, textures, effects and add Trees
+[33m1ebecba[m HEAD@{10}: commit (merge): Add Terrain and river
+[33m7d835e3[m HEAD@{11}: commit (amend): Add Models Terrai, montain and river
+[33md99a33a[m HEAD@{12}: reset: moving to d99a33a
+[33mdce92db[m HEAD@{13}: reset: moving to dce92db
+[33ma9d1da6[m HEAD@{14}: reset: moving to a9d1da6
+[33ma9d1da6[m HEAD@{15}: reset: moving to HEAD@{15}
+[33ma9d1da6[m HEAD@{16}: reset: moving to HEAD@{14}
+[33ma9d1da6[m HEAD@{17}: reset: moving to a9d1da6a8fc4ba235ad333addfdbe9d8bafdbdbe
+[33mf1afe0a[m HEAD@{18}: commit: Branch merge
+[33m38c4c38[m HEAD@{19}: pull --progress origin: Merge made by the 'recursive' strategy.
+[33ma9d1da6[m HEAD@{20}: reset: moving to HEAD^^
+[33md99a33a[m HEAD@{21}: reset: moving to d99a33a
+[33mdce92db[m HEAD@{22}: checkout: moving from master to master
+[33mdce92db[m HEAD@{23}: branch: Reset to origin/master
+[33m9e9cdda[m HEAD@{24}: commit: test
+[33mdce92db[m HEAD@{25}: checkout: moving from master to master
+[33mdce92db[m HEAD@{26}: checkout: moving from master to master
+[33mdce92db[m HEAD@{27}: checkout: moving from master to master
+[33mdce92db[m HEAD@{28}: branch: Reset to origin/master
+[33md99a33a[m HEAD@{29}: commit: Add Models Terrai, montain and river
+[33mdf19952[m HEAD@{30}: pull --progress origin: Merge made by the 'recursive' strategy.
+[33ma9d1da6[m HEAD@{31}: commit (amend): Add terrain, mountain and water
+[33mdce92db[m HEAD@{32}: reset: moving to HEAD
+[33mdce92db[m HEAD@{33}: pull --progress origin: Fast-forward
+[33m00345ad[m HEAD@{34}: checkout: moving from master to master
+[33m00345ad[m HEAD@{35}: branch: Reset to origin/master
+[33m9545349[m HEAD@{36}: checkout: moving from master to master
+[33m9545349[m HEAD@{37}: branch: Reset to origin/master
+[33m3813c79[m HEAD@{38}: clone: from https://github.com/fataku/McGameJam-2017
