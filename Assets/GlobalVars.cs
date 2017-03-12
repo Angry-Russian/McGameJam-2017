@@ -20,6 +20,7 @@ public class GlobalVars : MonoBehaviour {
     public float maxMoney = 40000;
 
     public float fillSpeed = 1;
+    public float improvementSpeed = 1f;
 
     // Use this for initialization
     void Start () {
@@ -35,33 +36,33 @@ public class GlobalVars : MonoBehaviour {
         education += fillSpeed * Time.deltaTime;
         environment += fillSpeed * Time.deltaTime;
 
-        healthBar.transform.localScale = new Vector3(1, health, 1);
-        educationBar.transform.localScale = new Vector3(1, education, 1);
-        environmentBar.transform.localScale = new Vector3(1, environment, 1);
+        healthBar.transform.localScale = new Vector3(1, health * improvementSpeed, 1);
+        educationBar.transform.localScale = new Vector3(1, education * improvementSpeed, 1);
+        environmentBar.transform.localScale = new Vector3(1, environment * improvementSpeed, 1);
 
 
-        if (Input.GetButtonDown("Fire1")) {
-            money += 1000;
+        if (Input.GetButtonDown("Fire1") && health > 0.15f) {
+            money += 850 * improvementSpeed;
             health -= 0.15f;
-            education += 0.05f + Random.Range(-0.025f, 0.025f);
-            environment += 0.05f + Random.Range(-0.025f, 0.025f);
+            //education += 0.05f + Random.Range(-0.025f, 0.025f);
+            //environment += 0.05f + Random.Range(-0.025f, 0.025f);
         }
 
-        if (Input.GetButtonDown("Fire2")) {
-            money += 1000;
+        if (Input.GetButtonDown("Fire2") && education > 0.15f) {
+            money += 1200 * improvementSpeed;
             education -= 0.15f;
-            health += 0.05f + Random.Range(-0.025f, 0.025f);
-            environment += 0.05f + Random.Range(-0.025f, 0.025f);
+            //health += 0.05f + Random.Range(-0.025f, 0.025f);
+            //environment += 0.05f + Random.Range(-0.025f, 0.025f);
         }
-        if (Input.GetButtonDown("Fire3")) {
-            money += 1000;
+        if (Input.GetButtonDown("Fire3") && environment > 0.15f) {
+            money += 1200 * improvementSpeed;
             environment -= 0.15f;
-            health += 0.05f + Random.Range(-0.025f, 0.025f);
-            education += 0.05f + Random.Range(-0.025f, 0.025f);
+            health += Random.Range(0f, 0.15f) - 0.075f;
+            //education += 0.05f + Random.Range(-0.025f, 0.025f);
         }
 
-        var penalty = Mathf.Pow(health - 0.5f, 2) + Mathf.Pow(environment - 0.5f, 2) + Mathf.Pow(education - 0.5f, 2);
+        var penalty = Mathf.Pow(health - 0.5f, 2) + Mathf.Pow(environment - 0.5f, 2) + 2*Mathf.Pow(education - 0.5f, 2);
 
-        money -= (cost * (penalty + 1)) * Time.deltaTime;
+        money -= (cost * (penalty + 1) + Mathf.Sqrt(money)/100) * Time.deltaTime;
     }
 }
