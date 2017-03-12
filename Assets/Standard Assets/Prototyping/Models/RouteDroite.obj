@@ -1,0 +1,16 @@
+# Blender v2.78 (sub 0) OBJ File: 'McGameJamPersonage.blend'
+# www.blender.org
+mtllib RouteDroite.mtl
+o Plane.008_Plane.020
+v -5.000000 0.000000 5.000000
+v 5.000000 0.000000 5.000000
+v -5.000000 0.000000 -5.000000
+v 5.000000 0.000000 -5.000000
+vt 0.0026 0.0078
+vt 0.3307 0.0078
+vt 0.3307 0.9922
+vt 0.0026 0.9922
+vn 0.0000 1.0000 0.0000
+usemtl RouteMaterial
+s off
+f 1/1/1 2/2/1 4/3/1 3/4/1
