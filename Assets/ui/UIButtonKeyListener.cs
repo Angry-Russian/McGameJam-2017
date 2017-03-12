@@ -19,7 +19,7 @@ public class UIButtonKeyListener : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         if (Input.GetButton(inputName)) 
-            this.transform.position = startPos + Vector3.down * 1f;
+            this.transform.position = startPos + Vector3.down * 2f;
         else
             this.transform.position = startPos;
     }
